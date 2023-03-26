@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "935685802115",
+    "project_id": "loginpage-c6bab",
+    "storage_bucket": "loginpage-c6bab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935685802115:android:c76fd2e8d54755a6f473b6",
+        "android_client_info": {
+          "package_name": "com.example.firbase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935685802115-mvuu2aa0q3susnqkt1iqs2tqv6g4srrp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWWZUGFcPdfqnRakbihUa7fm4sASPgwDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935685802115-mvuu2aa0q3susnqkt1iqs2tqv6g4srrp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
