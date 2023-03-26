@@ -13,12 +13,7 @@ class LoginPage extends StatelessWidget {
               },
               child: Text('Button'),
               style: ButtonStyle(),
-            ),  ElevatedButton(
-              onPressed: (){
-              },
-              child: Text('Button'),
-              style: ButtonStyle(),
-            ),  ElevatedButton(
+            ),   ElevatedButton(
               onPressed: (){
               },
               child: Text('Button'),
