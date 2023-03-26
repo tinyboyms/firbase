@@ -20,8 +20,25 @@ class LoginPage extends StatelessWidget {
               style: ButtonStyle(),
             ),
             // ElevatedButton(onPressed: (){},child: Text("LOGIN"),),
+                  Column(
+    children: [
+    ElevatedButton(
+    onPressed: (){
+    },
+    child: Text('Button'),
+    style: ButtonStyle(),
+    ),   ElevatedButton(
+    onPressed: (){
+    },
+    child: Text('Button'),
+    style: ButtonStyle(),
+    ),
+    // ElevatedButton(onPressed: (){},child: Text("LOGIN"),),
+    ],
+    ),
           ],
-        )
+        ),
+
 
 
     );
